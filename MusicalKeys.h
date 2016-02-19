@@ -167,8 +167,6 @@ namespace mkey
 	{
 		int index = 0;
 
-		// stripped search
-		// strip search
 		while (index < KEYGENSIZE)
 		{
 			if (KeyGenArray[index] == key_arg)
